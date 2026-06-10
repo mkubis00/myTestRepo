@@ -6,6 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class DemoApplicationTests {
 	// nowe zmiany
+	// kolejne zmiany
 	@Test
 	void contextLoads() {
 	}
